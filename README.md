@@ -1,7 +1,7 @@
 <div align="left">
   <a href="https://github.com/JA-Lourenco">
-    <img height="167cm" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JA-Lourenco&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="167cm" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-Lourenco&layout=compact&theme=github_dark"/>
+    <img height="167em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JA-Lourenco&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="167em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-Lourenco&layout=compact&theme=github_dark"/>
   </a>
 </div>
   
@@ -31,7 +31,7 @@
 <div>
   <h3> 📚 Studies </h3>
 
-  <h5> Full Stack Web Developer - <a href="https://www.youtube.com/c/Programadorbr" target="_blank" rel="external">ProgramadorBR's Course</a> </h5>
+  [ProgramadorBR's Full Stack Web Development Course](https://www.youtube.com/c/Programadorbr)
 </div>
 
 ##
@@ -40,7 +40,7 @@
   <h3> 🔗 Contact me </h3>
 
   <a href="https://www.linkedin.com/in/ja-lourenco/" target="_blank" rel="author">
-    <img height="32px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" />
+    <img height="32px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
