@@ -31,7 +31,7 @@
 <div>
   <h3> 📚 Studies </h3>
 
-  [ProgramadorBR's Full Stack Web Development Course](https://www.youtube.com/c/Programadorbr)
+  [ProgramadorBR's Full Stack Web Development Course](https://programadorbr.com)
 </div>
 
 ##
