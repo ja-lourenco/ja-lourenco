@@ -31,14 +31,6 @@
 ##
 
 <div>
-  <h3> 📚 Studies </h3>
-
-  [ProgramadorBR's Full Stack Web Development Course](https://programadorbr.com)
-</div>
-
-##
-
-<div>
   <h3> 🔗 Contact me </h3>
 
   <a href="https://www.linkedin.com/in/ja-lourenco/" target="_blank" rel="author">
