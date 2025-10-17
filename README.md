@@ -1,34 +1,25 @@
-<div align="left">
-  <a href="https://github.com/JA-Lourenco">
-    <img height="167em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-Lourenco&layout=compact&theme=github_dark"/>
-    <img height="167em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JA-Lourenco&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/ja-lourenco/" target="_blank" rel="author">
+  <img height="35px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<h1 align=center> DevOps Engineer </h1>
+
+<p align="justify">𝐈 𝐚𝐦 𝐚 𝐃𝐞𝐯𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with a strong foundation in software development and technical support, giving me a holistic perspective on the software lifecycle. My experience spans building scalable applications, managing cloud infrastructure, and optimizing system performance, with a focus on automation, observability, and reliability.</p>
+
+<br>
+
+<div align="center">
   
-<hr>
-
-<div>
-  <h3> 🖥️ Current Skills </h3>
-
-  <div>
-    <img height="50px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="50px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-    <img height="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="50px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="50px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img height="50px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>  
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,linux,bash,gitlab,prometheus,grafana,js,ts,nodejs)](https://skillicons.dev)
 </div>
 
-<div>
-  <h3> 🔗 Contact me </h3>
-
-  <a href="https://www.linkedin.com/in/ja-lourenco/" target="_blank" rel="author">
-    <img height="35px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://github.com/JA-Lourenco">
+    <img height="167em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-Lourenco&layout=donut&theme=nord"/>
+    <img height="167em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JA-Lourenco&theme=nord&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
 </div>
 
-<hr>
 
 
 
